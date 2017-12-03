@@ -1,0 +1,30 @@
+@media only screen and (max-width : 480px) {
+    .flex-container{
+        flex-direction: column;
+    }
+.file-upload {
+    width:100%;
+    label{
+        max-width:90%;
+        width:100%;
+        margin-bottom:10px;
+    }
+}
+}
+@media only screen and (max-width : 700px) {
+    .title{
+        font-size:32px;
+            margin-bottom: 40px
+    }
+}
+@media only screen and (max-width : 420px) {
+ .title{
+        font-size:24px;
+    }
+}
+@media only screen and (min-width : 1200px) {
+
+}
+@media only screen and (min-width : 960px) {
+
+}
